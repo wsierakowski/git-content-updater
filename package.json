@@ -25,5 +25,6 @@
     "watchify": "^3.7.0"
   },
   "dependencies": {
+    "simple-git": "^1.65.0"
   }
 }
